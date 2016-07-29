@@ -1,0 +1,9 @@
+.portada{
+	background-image: url("../img/grupal.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height: 700px;
+}
+.gris{
+	background-color: lightgray;
+}
